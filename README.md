@@ -1,7 +1,7 @@
 ![Header](https://i.imgur.com/CGmKtgR.png)
 <h1 align="center">Hi 👋, I'm Shrikant verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg" alt="shrikantverma15"  align="right" width="400"/>
+<img src="https://www.bing.com/th/id/OGC.b8621d221ed49bf3bf0abcb7e7efee87?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&ehk=1pUq2QV7aTpjkq3DC6ewAWbipixbWFCWbd4Wso5U3WE%3d" alt="shrikantverma15"  align="right" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrikantverma15&label=Profile%20views&color=0e75b6&style=flat" alt="shrikantverma15" /> </p>
 
